@@ -2,5 +2,6 @@
 
 int main() {
 	std::cout << "Hello World!";
+	std::cout << "Tao nhanh moi va thay doi vai dong tren thongbao.cpp!";
 	return 0;
 }
